@@ -33,6 +33,8 @@ ro.vendor.mtk.bt_sap_enable=true
 vendor.bluetooth.ldac.abr=true
 
 # Camera
+persist.camera.HAL3.enabled=1
+persist.vendor.camera.HAL3.enabled=1
 camera.disable_zsl_mode=1
 persist.vendor.camera3.pipeline.bufnum.base.imgo=4
 persist.vendor.camera3.pipeline.bufnum.base.lcso=4
