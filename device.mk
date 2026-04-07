@@ -155,7 +155,7 @@ PRODUCT_PACKAGES += \
     android.hardware.graphics.mapper@4.0.vendor \
     libion.vendor \
     libui.vendor \
-    libdrm.vendor 
+    libdrm.vendor
 
 PRODUCT_PACKAGES += \
     ANGLE
